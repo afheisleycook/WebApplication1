@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<journal>
+   <post id='0'>
+    <title>hello</title>
+    <description>this is post</description>
+    </post>
+    <post id='1'>
+        <title>hello</title>
+        <description>this is post</description>
+    </post>
+</journal>
